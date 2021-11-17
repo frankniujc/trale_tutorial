@@ -1,1 +1,3 @@
-# trale_for_dummies
+# TRALE Tutorial
+
+https://github.com/frankniujc/trale_tutoiral/wiki
